@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/web-llm",
+  "source": "mlc-ai/web-llm",
+  "source_url": "https://github.com/mlc-ai/web-llm",
+  "commit": "bd46399aa288a49e062eaf9ae86ffa7487e7fc14",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": "Apache-2.0",
+  "upstream_license_name": "Apache License 2.0",
+  "role": "browser — LLM inference in WebGPU",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
